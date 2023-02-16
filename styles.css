@@ -207,6 +207,6 @@ h2:hover {
   box-sizing: border-box;
   background-color: lightblue;
   background-clip: content-box, padding-box;
-  margin: .5px
+  padding: 30px 30px 30px 30 px;
   /* TODO */
 }
